@@ -1,0 +1,15 @@
+1  -> Equal text is removed, only what is important is showned in fc command.
+
+2  -> Version history could help us revert some unintentional changes. Could be used as a live map of the file. Commented code is no longer needed.
+3  -> Automated version control can remove the human error. Automatic version control might not make sense. Manual version control has the human error. Easier for humans to commint on logical changes.
+4  -> One logical commit could affect multiple files.Multiple commit saves time.
+5  -> Use log to find commit ids and diff between them.
+6  -> Easy to revert.
+7  -> Work related version control.
+8  -> Git is configured for that folder
+9  -> Staging area is between working directory and repository. Staging area allows for local "mistakes"
+10 -> Add to staging area all logical grouped changes at once. Commit and repeat.
+11 -> Branches for different compiler settings, different features etc.
+12 -> Visual diagrams help for a more easy view of the branches.
+13 -> Git will try to automatically merge the branches based on the common parent. Deleting the branch will make unmerged commits unatainable.
+14 -> Automatic merging can help save a lot of time, but can also be wrong. Manual merging is safer but slower.

@@ -1,0 +1,3 @@
+log    -> -stat
+commit -> check point with comment
+diff   -> diffs two commits
